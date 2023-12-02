@@ -1,6 +1,6 @@
 # Portfolio
 
-Я совершенствую свои навыки работы с Python и его библиотекой анализа данных (Numpy, pandas, Matplotlib, plotly, scipy, scikit Learn, seaborn) и SQL, создав портфолио проектов Яндекс.Практикум.
+Я совершенствую свои навыки работы с Python и его библиотеками(Numpy, Pandas, Matplotlib, Plotly, SciPy, Seaborn, Phik, Folium) и SQL, создав портфолио проектов Яндекс.Практикум.
 
 Навыки которые я использую в работе с данными:
 
